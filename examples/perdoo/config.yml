@@ -1,0 +1,3 @@
+- metric: 'Reduce the cost of launching a rocket by (\d+)x'
+- metric: 'Re-use all rockets at least (\d+)x'
+- metric: 'Win ([^ ]+) billion in commercial launch contracts

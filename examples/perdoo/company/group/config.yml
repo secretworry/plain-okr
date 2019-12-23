@@ -1,0 +1,14 @@
+- metric: 'Reduce fuel pump weight by (.*)'
+- metric: 'Reduce page load speed to "([^"]*)"'
+- metric: 'Sell "([^"]*)" worth of educational books'
+- metric: 'Build fuel pump prototype'
+  pivotaltracker:
+    id: '#001'
+- metric: 'Run a regular performance report'
+  pivotaltracker:
+    id: '#002'
+- metric: 'Add "([^"]*)" books to our online store'
+  pivotaltracker:
+    id: '#003'
+
+

@@ -1,0 +1,4 @@
+- metric: "Achieve (\d+) successful test launches"
+- metric: 'Reach "([^"]+)" searches per day'
+- metric: 'Achieve "([^"]+)" in global sales this year'
+
